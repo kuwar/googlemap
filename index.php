@@ -16,8 +16,8 @@
 		// setting marker
 		var marker=new google.maps.Marker({
 			position:myCenter,
-			/*icon:'pinkball.png',*/
-			animation:google.maps.Animation.BOUNCE,
+			/*icon:'taxi.png',*/
+			/*animation:google.maps.Animation.BOUNCE,*/
 			title:'Click to view info'
 		});
 		marker.setMap(map);
